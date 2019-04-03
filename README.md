@@ -1,5 +1,7 @@
 # Photo-realistic Monocular Gaze Redirection using Generative Adversarial Networks
 
+<img src="https://github.com/HzDmS/gaze_redirection/blob/master/imgs/circle.gif" width="100" height="100" /> &ensp; <img src="https://github.com/HzDmS/gaze_redirection/blob/master/imgs/zed.gif" width="100" height="100" /> &ensp; <img src="https://github.com/HzDmS/gaze_redirection/blob/master/imgs/horizontal.gif" width="100" height="100" /> &ensp; <img src="https://github.com/HzDmS/gaze_redirection/blob/master/imgs/vertical.gif" width="100" height="100" />
+
 Repository of arxiv paper [Photo-realistic Monocular Gaze Redirection using Generative Adversarial Networks](https://arxiv.org/abs/1903.12530)
 
 ## Dependencies
