@@ -1,6 +1,6 @@
 # Photo-realistic Monocular Gaze Redirection using Generative Adversarial Networks
 
-[[Arxiv Paper](https://arxiv.org/abs/1903.12530)]
+[[Paper](https://arxiv.org/abs/1903.12530)]
 
 Authors: **Zhe He**, Adrian Spurr, Xucong Zhang, Otmar Hilliges
 
